@@ -1,7 +1,7 @@
 # Level 2: 수능형 문제 풀이 모델 생성 (Generation for NLP)
 
 ## 📝 Abstract
-- [Wrap-Up Report](https://github.com/user-attachments/files/18146095/_NLP_.08.pdf)
+- [Wrap-Up Report](https://github.com/ssungni/level2-nlp-generationfornlp-nlp-08-lv3/blob/main/%EC%88%98%EB%8A%A5%ED%98%95%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8.pdf)
 - 이 프로젝트는 부스트캠프 AI Tech 7기 NLP track 경진 대회로, Dacon, Kaggle과 유사한 대회형 방식으로 진행되었다.
 - 소형 언어 모델을 사용해 한국어 및 수능 시험에 최적화된 AI 모델을 개발하여 GPT, Claude, Gemini와 같은 대형 모델을 능가하는 성능을 목표로 하였다.
 
